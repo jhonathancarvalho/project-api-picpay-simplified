@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00C92223-92B6-43B1-8D53-4E0C6248E69E}|Solution Items{00C92223-92B6-43B1-8D53-4E0C6248E69E}|C:\\Curso\\PicPaySimplified\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +46,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T19:51:22.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TransferController.cs",
               "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Controllers\\TransferController.cs",
               "RelativeDocumentMoniker": "Controllers\\TransferController.cs",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WalletConfiguration.cs",
               "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\Configurations\\WalletConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Configurations\\WalletConfiguration.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TransferConfiguration.cs",
               "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\Configurations\\TransferConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Configurations\\TransferConfiguration.cs",
@@ -81,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApplicationDbContext.cs",
@@ -94,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DocumentNumberValidationAttribute.cs",
               "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Utils\\DocumentNumberValidationAttribute.cs",
               "RelativeDocumentMoniker": "Utils\\DocumentNumberValidationAttribute.cs",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DocumentNumberValidator.cs",
               "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Utils\\DocumentNumberValidator.cs",
               "RelativeDocumentMoniker": "Utils\\DocumentNumberValidator.cs",
