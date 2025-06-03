@@ -23,7 +23,7 @@ namespace PicPaySimplified.Controllers
             if (!result.IsSuccess)
                 return BadRequest(new { message = "Falha na transferência: " + result.ErrorMessage });
 
-            return Ok(new { message = "Transferência realizada com sucesso.", data = result.Value });
+            return Ok(new { message = "Transferência realizada com sucesso!", data = result.Value });
         }
     }
 }
