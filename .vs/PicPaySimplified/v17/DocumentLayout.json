@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\infrastructure\\configurations\\transferconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:infrastructure\\configurations\\transferconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\models\\entities\\walletentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:models\\entities\\walletentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\models\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:models\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\mapper\\transfermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:mapper\\transfermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\transfer\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\transfer\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\models\\entities\\transferentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:models\\entities\\transferentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\infrastructure\\repositories\\transfer\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:infrastructure\\repositories\\transfer\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\authorizer\\authorizerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\authorizer\\authorizerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\infrastructure\\repositories\\wallet\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:infrastructure\\repositories\\wallet\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\authorizer\\iauthorizerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\authorizer\\iauthorizerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\models\\request\\transferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:models\\request\\transferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\models\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:models\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\validator\\transfervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\validator\\transfervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\models\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:models\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\models\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:models\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\transfer\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\transfer\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\notification\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\notification\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\validator\\itransfervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\validator\\itransfervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|c:\\curso\\picpaysimplified\\picpaysimplified\\services\\wallet\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AA88B-8BFF-4E30-8840-EF160E4DA7B8}|PicPaySimplified.csproj|solutionrelative:services\\wallet\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 331,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransferEntity.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Entities\\TransferEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\TransferEntity.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Entities\\TransferEntity.cs",
+              "RelativeToolTip": "Models\\Entities\\TransferEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:05:26.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransferConfiguration.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\Configurations\\TransferConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\TransferConfiguration.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\Configurations\\TransferConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\TransferConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:01:12.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransferService.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Transfer\\TransferService.cs",
+              "RelativeDocumentMoniker": "Services\\Transfer\\TransferService.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Transfer\\TransferService.cs",
+              "RelativeToolTip": "Services\\Transfer\\TransferService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowEQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:31:17.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransferController.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Controllers\\TransferController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransferController.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Controllers\\TransferController.cs",
+              "RelativeToolTip": "Controllers\\TransferController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:12:04.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransferMapper.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Mapper\\TransferMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\TransferMapper.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Mapper\\TransferMapper.cs",
+              "RelativeToolTip": "Mapper\\TransferMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:47:48.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferDto.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\DTO\\TransferDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\TransferDto.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\DTO\\TransferDto.cs",
+              "RelativeToolTip": "Models\\DTO\\TransferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:28:35.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalletEntity.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Entities\\WalletEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\WalletEntity.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Entities\\WalletEntity.cs",
+              "RelativeToolTip": "Models\\Entities\\WalletEntity.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:56:26.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthorizerService.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Authorizer\\IAuthorizerService.cs",
+              "RelativeDocumentMoniker": "Services\\Authorizer\\IAuthorizerService.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Authorizer\\IAuthorizerService.cs",
+              "RelativeToolTip": "Services\\Authorizer\\IAuthorizerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:40:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransferRepository.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\Repositories\\Transfer\\TransferRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Transfer\\TransferRepository.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\Repositories\\Transfer\\TransferRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Transfer\\TransferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:43:23.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorizerService.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Authorizer\\AuthorizerService.cs",
+              "RelativeDocumentMoniker": "Services\\Authorizer\\AuthorizerService.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Authorizer\\AuthorizerService.cs",
+              "RelativeToolTip": "Services\\Authorizer\\AuthorizerService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:40:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WalletRepository.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\Repositories\\Wallet\\WalletRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Wallet\\WalletRepository.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Infrastructure\\Repositories\\Wallet\\WalletRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Wallet\\WalletRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:03:48.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransferRequest.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Request\\TransferRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\TransferRequest.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Request\\TransferRequest.cs",
+              "RelativeToolTip": "Models\\Request\\TransferRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:36:45.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:45:31.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransferValidator.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Validator\\TransferValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Validator\\TransferValidator.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Validator\\TransferValidator.cs",
+              "RelativeToolTip": "Services\\Validator\\TransferValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:57:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Response\\Result.cs",
+              "RelativeDocumentMoniker": "Models\\Response\\Result.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Response\\Result.cs",
+              "RelativeToolTip": "Models\\Response\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:00:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Enums\\DocumentType.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\DocumentType.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Enums\\DocumentType.cs",
+              "RelativeToolTip": "Models\\Enums\\DocumentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:36:37.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\UserType.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Models\\Enums\\UserType.cs",
+              "RelativeToolTip": "Models\\Enums\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:30:49.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITransferService.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Transfer\\ITransferService.cs",
+              "RelativeDocumentMoniker": "Services\\Transfer\\ITransferService.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Transfer\\ITransferService.cs",
+              "RelativeToolTip": "Services\\Transfer\\ITransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:27:31.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WalletController.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "Controllers\\WalletController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:14:43.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Notification\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\Notification\\NotificationService.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Notification\\NotificationService.cs",
+              "RelativeToolTip": "Services\\Notification\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:03:31.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Notification\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\Notification\\INotificationService.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Notification\\INotificationService.cs",
+              "RelativeToolTip": "Services\\Notification\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:04:31.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITransferValidator.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Validator\\ITransferValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Validator\\ITransferValidator.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Validator\\ITransferValidator.cs",
+              "RelativeToolTip": "Services\\Validator\\ITransferValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:55:27.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Wallet\\WalletService.cs",
+              "RelativeDocumentMoniker": "Services\\Wallet\\WalletService.cs",
+              "ToolTip": "C:\\Curso\\PicPaySimplified\\PicPaySimplified\\Services\\Wallet\\WalletService.cs",
+              "RelativeToolTip": "Services\\Wallet\\WalletService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:28:41.65Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 69,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
